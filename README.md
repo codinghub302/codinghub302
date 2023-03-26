@@ -51,8 +51,9 @@ class Anonymous():
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/telegram_icon.png" width="60px">](https://t.me/codinghub302) [<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/github_icon.png" width="60px">](https://github.com/codinghub302) [<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/youtube_icon.png" width="60px">](https://www.youtube.com/codinghub302/) [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/mrrajunique)
-
+[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/telegram_icon.png" width="60px">](https://t.me/codinghub302) 
+[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/github_icon.png" width="60px">](https://github.com/codinghub302) 
+[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/youtube_icon.png" width="60px">](https://www.youtube.com/codinghub302/) [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/mrrajunique)
 [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/hr.gif"/>](https://github.com/codinghub302)
 
 <h1> <img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
@@ -60,4 +61,3 @@ class Anonymous():
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="codinghub Spotify" width="75%" />](https://open.spotify.com/user/R12qgCkTtyb)
 
 [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/hr.gif"/>](https://github.com/codinghub302)
-
