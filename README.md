@@ -1,6 +1,6 @@
 [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/hr.gif"/>](https://github.com/codinghub302)
 
-<h1> <img src="https://te.legra.ph/file/353e691eaa29642e279fd.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<h1> <img src="https://te.legra.ph/file/353e691eaa29642e279fd.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍʀ ʀᴀᴊ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/codinghub302/count.svg" />
@@ -17,9 +17,9 @@
 <h1> <img src="https://te.legra.ph/file/d81c3ef2c3c2ec3074f8f.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Anonymous():
+class ᴍʀ ʀᴀᴊ():
     def __init__(self):
-        self.name = ['Anonymous]
+        self.name = ['ᴍʀ ʀᴀᴊ]
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
@@ -51,7 +51,8 @@ class Anonymous():
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/telegram_icon.png" width="60px">](https://t.me/codinghub302) [<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/github_icon.png" width="60px">](https://github.com/codinghub302) [<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/youtube_icon.png" width="60px">](https://www.youtube.com/codinghub302/) [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/mrrajunique)
+[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/telegram_icon.png" width="60px">](https://t.me/codinghub302)[<img src="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/github_icon.png" width="60px">](https://github.com/codinghub302)
+[<imgsrc="https://raw.githubusercontent.com/codinghub302/codinghub302/main/resources/youtube_icon.png" width="60px">](https://www.youtube.com/codinghub302/)[<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/mr_raj_unique_)
 
 [<img src="https://github.com/codinghub302/codinghub302/blob/main/resources/hr.gif"/>](https://github.com/codinghub302)
 
